@@ -11,7 +11,7 @@
 
 Склонируйте репозиторий с помощью git
 
-    https://github.com/gogoshew/comments_api.git
+    https://github.com/gogoshew/alikson.git
 
 Создать и активировать виртуальное окружение Python.
 
