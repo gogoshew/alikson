@@ -12,10 +12,7 @@
 Склонируйте репозиторий с помощью git
 
     https://github.com/gogoshew/comments_api.git
-Перейти в папку:
-```bash
-cd comments_api
-```
+
 Создать и активировать виртуальное окружение Python.
 
 Установить зависимости из файла **requirements.txt**:
